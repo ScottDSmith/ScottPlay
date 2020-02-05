@@ -5,5 +5,10 @@ class Scott{
     System.out.println("Hello World");
   }
 
+  public void bar(){
+    //do nothing
+    return;
+  }
+
 
 }
